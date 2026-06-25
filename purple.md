@@ -1,5 +1,8 @@
+<!--
 layout: page
- title: “Purple Lightsaber” permalink: /purple/
+title: "Purple Lightsaber"
+permalink: /purple/
+-->
 💜 Your Kyber Crystal Resonates with Purple
 The Balance Walker
 Your answers suggest that your greatest strength lies in conviction. Purple lightsaber wielders embrace passion while striving to remain in control of it. You are willing to make difficult decisions, stand apart from the crowd, and challenge yourself to become stronger without losing sight of what matters.

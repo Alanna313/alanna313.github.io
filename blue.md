@@ -1,5 +1,8 @@
+html<!--
 layout: page
- title: “Blue Lightsaber” permalink: /blue/
+title: "Blue Lightsaber"
+permalink: /blue/
+-->
 💙 Your Kyber Crystal Resonates with Blue
 The Guardian
 Your answers suggest that your strongest instinct is to protect others and stand firm when challenges arise. Blue lightsaber wielders are driven by duty, courage, and a desire to make a meaningful difference through action. You tend to step forward when others hesitate and value loyalty, responsibility, and perseverance.
